@@ -1,2 +1,2 @@
 # Presupuesto
-Pagina que calclua presupuesto simple
+Pagina que calcula presupuesto simple
